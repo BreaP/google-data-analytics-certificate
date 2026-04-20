@@ -13,8 +13,8 @@ I hold a **Bachelor's degree in Software Development** and am building on that f
 | # | Course | Status |
 |:----------:|:----------:|:----------:|
 | 1    | Foundations of Data, Data, Everywhere     | ✅ Complete     |
-| 2    | Ask Questions to Make Data-Driven Decisions     | 🟡 In Progress     |
-| 3    | Prepare Data for Exploration     | ⬜ Upcoming     |
+| 2    | Ask Questions to Make Data-Driven Decisions     |  ✅ Complete    |
+| 3    | Prepare Data for Exploration     | 🟡 In Progress     |
 | 4    | Process Data from Dirty to Clean     | ⬜ Upcoming     |
 | 5    | Analyze Data to Answer Questions     | ⬜ Upcoming     |
 | 6    | Share Data Through the Art of Visualization     | ⬜ Upcoming     |
