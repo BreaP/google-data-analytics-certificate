@@ -15,8 +15,8 @@ I hold a **Bachelor's degree in Software Development** and am building on that f
 | 1    | Foundations of Data, Data, Everywhere     | ✅ Complete     |
 | 2    | Ask Questions to Make Data-Driven Decisions     |  ✅ Complete    |
 | 3    | Prepare Data for Exploration     | ✅ Complete     |
-| 4    | Process Data from Dirty to Clean     | 🟡 In Progress     |
-| 5    | Analyze Data to Answer Questions     | ⬜ Upcoming     |
+| 4    | Process Data from Dirty to Clean     |  ✅ Complete    |
+| 5    | Analyze Data to Answer Questions     | 🟡 In Progress     |
 | 6    | Share Data Through the Art of Visualization     | ⬜ Upcoming     |
 | 7    | Introduction to Data Analysis Using Python     | ⬜ Upcoming     |
 | 8    | Google Data Analytics Capstone Project     | ⬜ Upcoming     |
