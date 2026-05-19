@@ -18,8 +18,8 @@ I hold a **Bachelor's degree in Software Development** and am building on that f
 | 4    | Process Data from Dirty to Clean     |  ✅ Complete    |
 | 5    | Analyze Data to Answer Questions     |  ✅ Complete   |
 | 6    | Share Data Through the Art of Visualization     |    ✅ Complete   |
-| 7    | Introduction to Data Analysis Using Python     |    🟡 In Progress |
-| 8    | Google Data Analytics Capstone Project     | ⬜ Upcoming     |
+| 7    | Introduction to Data Analysis Using Python     |  ✅ Complete   |
+| 8    | Google Data Analytics Capstone Project     | 🟡 In Progress     |
 | 9    | Accelerate Your Job Search with AI     | ⬜ Upcoming     |
 
 
