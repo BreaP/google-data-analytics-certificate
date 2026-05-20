@@ -13,11 +13,13 @@ Bellabeat's marketing strategy.
 
 ## Data Sources
 - FitBit Fitness Tracker Data (Kaggle, CC0 Public Domain)
-- dailyActivity_merged: 60 days of data (3/12–5/12), 36 users
-- sleepDay_merged: 30 days of data (4/12–5/12), 25 users
+[https://www.kaggle.com/datasets/arashnic/fitbit?resource=download]
+
+
 
 ## Tools Used
 - Google Sheets (data cleaning, analysis, visualization)
+[https://docs.google.com/spreadsheets/d/1bayBts3tz0ctB6-B4DUsyhNxivxwv8oNp8PMHergBzo/edit?usp=sharing]
 
 ## Key Findings
 1. Users average 7,280 steps/day — 27% below the CDC recommended 
