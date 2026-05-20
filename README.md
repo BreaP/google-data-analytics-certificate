@@ -19,8 +19,8 @@ I hold a **Bachelor's degree in Software Development** and am building on that f
 | 5    | Analyze Data to Answer Questions     |  ✅ Complete   |
 | 6    | Share Data Through the Art of Visualization     |    ✅ Complete   |
 | 7    | Introduction to Data Analysis Using Python     |  ✅ Complete   |
-| 8    | Google Data Analytics Capstone Project     | 🟡 In Progress     |
-| 9    | Accelerate Your Job Search with AI     | ⬜ Upcoming     |
+| 8    | Google Data Analytics Capstone Project     | ✅ Complete       |
+| 9    | Accelerate Your Job Search with AI     | ✅ Complete       |
 
 
 ## Tools & Skills Being Developed
@@ -34,7 +34,7 @@ I hold a **Bachelor's degree in Software Development** and am building on that f
 ## Portfolio Projects
 | Project | Tools Used | Description |
 |:----------:|:----------:|:----------:|
-| Titanic Survival Analysis   | Python, Pandas, Seaborn     | Exploratory analysis of survival factors     |
+| Bellabeat Case Study   | Google Sheets     | Analyzed Fitbit fitness tracker data to identify smart device usage trends and provide marketing recommendations for Bellabeat     |
 | More coming soon...    |      |      |
 
 ## Background
@@ -47,3 +47,4 @@ I hold a **Bachelor's degree in Software Development** and am building on that f
 
 ## Status
 🟡 **In Progress** — Started April 2026
+✅ **Completed** — Finshed May 2026
