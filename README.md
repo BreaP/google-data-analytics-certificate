@@ -46,5 +46,4 @@ I hold a **Bachelor's degree in Software Development** and am building on that f
 
 
 ## Status
-🟡 **In Progress** — Started April 2026
-✅ **Completed** — Finshed May 2026
+✅ **Completed** — Finished May 2026
