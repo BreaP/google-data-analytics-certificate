@@ -35,6 +35,7 @@ I hold a **Bachelor's degree in Software Development** and am building on that f
 | Project | Tools Used | Description |
 |:----------:|:----------:|:----------:|
 | Bellabeat Case Study   | Google Sheets     | Analyzed Fitbit fitness tracker data to identify smart device usage trends and provide marketing recommendations for Bellabeat     |
+| NovaStream Help Desk Analysis     |   SQL(MySQL) & Tableau   | Imported help-desk support logs into a MySQL database to identify why password resets were showing a massive 5-hour delay. Discovered an internal tracking error where agents solved problems instantly but forgot to close ticket windows, and recommended dynamic CRM trigger solutions to fix it.   |
 | More coming soon...    |      |      |
 
 ## Background
